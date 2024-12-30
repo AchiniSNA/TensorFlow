@@ -1,1 +1,1 @@
-Creted for learning TensorFlow.
+Created for learning TensorFlow.
